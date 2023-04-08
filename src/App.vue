@@ -1,5 +1,6 @@
 <template>
   <div class="canvas-container" ref="canvasContainer">
+    OCD SOLVED
     <div class="inner-cont" ref="canvas"></div>
   </div>
 </template>
